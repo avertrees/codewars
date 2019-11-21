@@ -8,3 +8,13 @@
 // numbac(2, 5) = 207
 // Base case: h == 0
 // Recursive call: 48 + numbac(h - 1, num * h)
+
+// Write a function that returns a string with each instance of an argument character removed, using the prototype "rem(str, char)".
+// For example:
+// rem('abcd', 'a') = 'bcd'
+// rem('adobe', 'd') = 'aobe'
+// rem('adobe', 'D') = 'adobe'
+// rem('abcd', 'a') = 'bcd'
+// rem('Bookkeeper', 'e') = 'bookkpr'
+// Base case: 
+// Recursive call: 
